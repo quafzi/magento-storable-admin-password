@@ -1,0 +1,16 @@
+{
+    "name": "quafzi/magento-storable-admin-password",
+    "description": "This small Magento extension allows browsers to store admin username and password.",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Thomas Birke",
+            "email": "quafzi@netextreme.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

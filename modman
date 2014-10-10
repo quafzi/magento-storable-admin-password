@@ -1,0 +1,4 @@
+app/code/community/Quafzi/StorableAdminPassword app/code/community/Quafzi/StorableAdminPassword
+app/design/adminhtml/default/default/template/login-storable.phtml app/design/adminhtml/default/default/template/login-storable.phtml
+app/etc/modules/Quafzi_StorableAdminPassword.xml app/etc/modules/Quafzi_StorableAdminPassword.xml
+app/design/adminhtml/default/default/layout/quafzi_storableadminpassword.xml app/design/adminhtml/default/default/layout/quafzi_storableadminpassword.xml
